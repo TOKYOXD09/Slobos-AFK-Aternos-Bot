@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tokyo01232.aternos.me
-",
+    "ip": "tokyo01232.aternos.me",
     "port": 18734,
     "version": "",
     "try-creative": false
